@@ -1,0 +1,14 @@
+h5py==2.10.0
+matplotlib==3.3.4
+numpy==1.20.3
+
+six==1.16.0
+
+tensorflow
+torch>=2.0.0
+transformers>=4.30.0
+scikit-learn>=1.2.0
+pandas>=2.0.0
+
+accelerate>=0.20.0
+datasets>=2.12.0
